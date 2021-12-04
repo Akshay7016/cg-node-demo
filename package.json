@@ -1,0 +1,15 @@
+{
+  "name": "cg-node-demo",
+  "version": "1.0.0",
+  "description": "Node demo project for CG Trainee Oct 12 Batch 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Sajgule",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
